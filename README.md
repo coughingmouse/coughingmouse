@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Iso Lee @coughingmouseo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 To reach me.
+- 👋 Hi, I’m Iso Lee @coughingmouse.
+- 👀 I’m interested in intelligence and communication.
+- 🌱 I’m currently learning Standard Common Speech.
+- 💞️ I’m looking to collaborate on improving the way we communicate and handle data.
+- 📫 To reach me, send me a message at [@coughingmouse@mastodon.online](https://mastodon.online/@coughingmouse).
 
 <!---
 coughingmouse/coughingmouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
